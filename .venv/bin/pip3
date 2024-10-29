@@ -1,4 +1,4 @@
-#!/home/claudio/Repository/ProgramadorAventureiro/Flet/.venv/bin/python
+#!/home/claudio/Repository/ProgramadorAventureiro/Flet360/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
