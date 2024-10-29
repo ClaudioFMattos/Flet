@@ -36,17 +36,6 @@ def main(page: ft.Page):
             case _:
                 print('Outra ação!', e.data)
 
-
-        # if e.data == 'maximize':
-        #     print('Moveu a página!')
-        # elif e.data == 'minimize':
-        #     print('Minimizou a página')
-        # elif e.data == 'focus':
-        #     print('Moveu a página')
-        # else:
-        #     print('Outra ação!', e.data)
-
-
     page.window.on_event = window_event
 
     # print(page.platform)
